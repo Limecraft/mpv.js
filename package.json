@@ -35,13 +35,5 @@
   "dependencies": {
     "prebuild-install": "^2.1.1",
     "prop-types": "^15.5.10"
-  },
-  "devDependencies": {
-    "babel-standalone": "^6.23.1",
-    "electron": "^1.6.8",
-    "electron-debug": "^1.1.0",
-    "eslint": "^3.17.0",
-    "eslint-plugin-react": "^6.10.0",
-    "prebuild": "^6.1.0"
   }
 }
